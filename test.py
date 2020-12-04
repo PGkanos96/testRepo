@@ -1,1 +1,1 @@
-print("This is a training of a new file creation.")
+print("This is a training of a new file creation and edition.")
